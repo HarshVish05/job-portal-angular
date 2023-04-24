@@ -1,16 +1,16 @@
 { 
   "Jobs":[ 
     {
-      "jobName": "Java Developer",
+      "jobName": "Python Developer",
       "Salary": 22222,
-      "Location": "bangalore",
-      "Skills": "java",
+      "Location": "Kolkata",
+      "Skills": "Python",
       "Experience": "3-5 years",
       "Education": "Bachelor's Degree in Computer Science",
       "EmploymentType": "Full-time",
       "Industry": "Information Technology",
-      "Company": "ABC Technologies",
-      "JobDescription": "We are looking for an experienced Java Developer to join our team and help us develop and maintain various software applications using Java programming language."
+      "Company": "XYZ Technologies",
+      "JobDescription": "We are looking for an experienced Python Developer to join our team and help us develop and maintain various software applications using Java programming language."
       },
   
   {
